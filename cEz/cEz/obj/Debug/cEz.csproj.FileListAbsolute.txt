@@ -1,0 +1,11 @@
+c:\users\edcarlos\documents\visual studio 2015\Projects\cEz\cEz\bin\Debug\cEz.exe.config
+c:\users\edcarlos\documents\visual studio 2015\Projects\cEz\cEz\bin\Debug\cEz.exe
+c:\users\edcarlos\documents\visual studio 2015\Projects\cEz\cEz\bin\Debug\cEz.pdb
+c:\users\edcarlos\documents\visual studio 2015\Projects\cEz\cEz\bin\Debug\EloBuddy.dll
+c:\users\edcarlos\documents\visual studio 2015\Projects\cEz\cEz\bin\Debug\EloBuddy.SDK.dll
+c:\users\edcarlos\documents\visual studio 2015\Projects\cEz\cEz\bin\Debug\SharpDX.dll
+c:\users\edcarlos\documents\visual studio 2015\Projects\cEz\cEz\bin\Debug\SharpDX.Direct3D9.dll
+c:\users\edcarlos\documents\visual studio 2015\Projects\cEz\cEz\bin\Debug\Newtonsoft.Json.dll
+c:\users\edcarlos\documents\visual studio 2015\Projects\cEz\cEz\obj\Debug\cEz.csprojResolveAssemblyReference.cache
+c:\users\edcarlos\documents\visual studio 2015\Projects\cEz\cEz\obj\Debug\cEz.exe
+c:\users\edcarlos\documents\visual studio 2015\Projects\cEz\cEz\obj\Debug\cEz.pdb
